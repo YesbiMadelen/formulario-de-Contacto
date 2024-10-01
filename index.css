@@ -1,0 +1,36 @@
+ body {
+  background: #56c2c2c5;
+  color: rgb(25, 59, 232);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+label {
+  display: block;
+}
+
+span {
+  display: block;
+  color: rgb(255, 71, 71);
+  font-size: x-small;
+}
+
+input {
+  margin-bottom: .5rem;
+}
+
+textarea {
+  border-radius: 5px;
+  background-color: #f4f8f6;
+  padding: 1rem;
+}
+ 
+button {
+  display: block;
+  padding: 0.5rem 0.5rem;
+  width: 100px;
+  margin: 0 auto;
+}
+ 
